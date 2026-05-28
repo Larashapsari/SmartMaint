@@ -1,0 +1,1 @@
+{"feature_cols": ["s2", "s3", "s4", "s6", "s7", "s8", "s9", "s11", "s12", "s13", "s14", "s15", "s17", "s20", "s21", "op1", "op2", "op3", "ambient_temp", "load_pct", "shift_Malam", "shift_Pagi", "shift_Siang", "machine_type_Assembly", "machine_type_Painting", "machine_type_Press", "machine_type_Welding"], "sequence_len": 30, "n_machines": 10, "n_slots": 30}
